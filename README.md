@@ -63,11 +63,7 @@ There are also two optional parameters:
 
 - `--small` or `-s` (to be used with `-i`)  for displaing the input in case of wrong answer, but removing newlines for clarity
 
-Examples (for exercise Lab2Set):
-
-```
-python3 kozajudge.py Lab2Set
-```
+Examples usage of these (for exercise Lab2Set):
 ```
 python3 kozajudge.py Lab2Set --show-input
 ```
